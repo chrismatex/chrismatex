@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+Sou Christian Martins Teixeira, tenho 20 anos e sou estudante de Engenharia de Computação.
 
-<!--
-**chrismatex/chrismatex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apaixonado por tecnologia, gosto de criar, aprender e explorar o mundo da programação!
+Aqui você encontrará meus projetos desenvolvidos com:
 
-Here are some ideas to get you started:
+- ☕ Java  
+- 🐍 Python  
+- 🌐 HTML / CSS / JavaScript  
+- 🐘 MySQL  
+- 🖥️ C / C++  
+- 🐙 GitHub
+- 
+📚 Sempre em busca de evolução e novos desafios!
+Fique à vontade para explorar e acompanhar minha jornada! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
