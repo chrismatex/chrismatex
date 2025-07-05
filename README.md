@@ -10,7 +10,7 @@ Aqui você encontrará meus projetos desenvolvidos com:
 - 🐘 MySQL  
 - 🖥️ C / C++  
 - 🐙 GitHub
-- 
+  
 📚 Sempre em busca de evolução e novos desafios!
 Fique à vontade para explorar e acompanhar minha jornada! 🚀
 
